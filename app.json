@@ -27,8 +27,8 @@
     }, 
     "AUTO_READ_MESSAGES":
     {
-      "description":"Put on if you want the bot to autoread people's messages or else put no", 
-      "value":"off", 
+      "description":"on", 
+      "value":"on", 
       "required":false 
     }, 
     "AUTO_VIEW_STATUS":
@@ -60,7 +60,7 @@
     "BOT_MODE":
     {
       "description":"put private  to put your bot on private mode or public to put it on public mod",
-      "value":"private",
+      "value":"public",
       "required":false
     }
         ,
@@ -92,7 +92,7 @@
 
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":false,
-    "value": "254751284190"
+    "value": "94751131420"
   },
     "WARN_COUNT":
   {
